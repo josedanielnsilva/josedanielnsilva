@@ -1,16 +1,44 @@
-## Hi there 👋
+# Olá! Eu sou José Daniel 👋
 
-<!--
-**josedanielnsilva/josedanielnsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento web e em busca da minha primeira oportunidade como desenvolvedor.
 
-Here are some ideas to get you started:
+Atualmente, desenvolvo projetos utilizando **HTML, CSS e JavaScript** e estou aprofundando meus conhecimentos em **React, Python e desenvolvimento de APIs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 💻 Tecnologias
+
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
+</div>
+
+## 📚 Estudando atualmente
+
+<div>
+  <img src="https://skillicons.dev/icons?i=react,python,flask,sqlite" />
+</div>
+
+## 🚀 Projetos em destaque
+
+### Calculadora de Surebet
+
+Aplicação para calcular a distribuição dos valores em apostas arbitradas, identificando a viabilidade da operação e o lucro estimado.
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+[Ver projeto](https://josedanielnsilva.github.io/calculadoraSurebet/) • [Ver repositório](https://github.com/josedanielnsilva/calculadoraSurebet)
+
+### Linktree Responsivo
+
+Página de links pessoais com layout responsivo, alternância entre tema claro e escuro e armazenamento da preferência do usuário.
+
+**Tecnologias:** HTML, CSS, JavaScript e LocalStorage
+
+[Ver projeto](https://josedanielnsilva.github.io/linktree/) • [Ver repositório](https://github.com/josedanielnsilva/linktree)
+
+## 📊 Estatísticas
+
+<div>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josedanielnsilva&show_icons=true&theme=github_dark&locale=pt-br" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedanielnsilva&layout=compact&theme=github_dark&locale=pt-br" />
+</div>
+
 -->
