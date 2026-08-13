@@ -36,6 +36,8 @@ Página de links pessoais com layout responsivo, alternância entre tema claro e
 
 ## 📊 Estatísticas
 
+<div>
 ![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josedanielnsilva&theme=github_dark)
 
 ![Linguagens mais utilizadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josedanielnsilva&theme=github_dark)
+</div>
