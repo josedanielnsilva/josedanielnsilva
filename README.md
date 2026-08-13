@@ -36,9 +36,6 @@ Página de links pessoais com layout responsivo, alternância entre tema claro e
 
 ## 📊 Estatísticas
 
-<div>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=josedanielnsilva&show_icons=true&theme=github_dark&locale=pt-br" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josedanielnsilva&layout=compact&theme=github_dark&locale=pt-br" />
-</div>
+![Estatísticas do GitHub](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=josedanielnsilva&theme=github_dark)
 
--->
+![Linguagens mais utilizadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josedanielnsilva&theme=github_dark)
