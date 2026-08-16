@@ -26,6 +26,16 @@ API REST desenvolvida com Python e Flask, contendo autenticação de usuários, 
 
 [Ver repositório](https://github.com/josedanielnsilva/flask-ecommerce-api)
 
+### Jogo da Forca
+
+Jogo desenvolvido em Python com interface pelo terminal. Possui sorteio de palavras, validação das tentativas, representação visual da forca e sistema de ranking com armazenamento das pontuações em arquivo.
+
+O código foi organizado em módulos separados para a lógica do jogo, desenhos, menu e manipulação de arquivos.
+
+**Tecnologias e conceitos:** Python, funções, listas, módulos, estruturas condicionais e leitura e escrita de arquivos
+
+[Ver repositório](https://github.com/josedanielnsilva/forca)
+
 ### Calculadora de Surebet
 
 Aplicação para calcular a distribuição dos valores em apostas arbitradas, identificando a viabilidade da operação e o lucro estimado.
