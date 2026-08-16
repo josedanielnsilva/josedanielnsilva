@@ -2,21 +2,29 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento web e em busca da minha primeira oportunidade como desenvolvedor.
 
-Atualmente, desenvolvo projetos utilizando **HTML, CSS e JavaScript** e estou aprofundando meus conhecimentos em **React, Python e desenvolvimento de APIs**.
+Desenvolvo projetos de front-end com **HTML, CSS e JavaScript** e também aplicações back-end utilizando **Python, Flask, APIs REST e bancos de dados SQL**.
 
 ## 💻 Tecnologias
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,python,flask,sqlite,git,github,vscode" />
 </div>
 
 ## 📚 Estudando atualmente
 
 <div>
-  <img src="https://skillicons.dev/icons?i=react,python,flask,sqlite" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </div>
 
 ## 🚀 Projetos em destaque
+
+### API REST de E-commerce
+
+API REST desenvolvida com Python e Flask, contendo autenticação de usuários, controle de sessão, proteção de rotas, operações de produtos, carrinho e checkout. Os dados são armazenados em um banco SQLite e as respostas são fornecidas em JSON.
+
+**Tecnologias:** Python, Flask, Flask-SQLAlchemy, Flask-Login, Flask-CORS e SQLite
+
+[Ver repositório](https://github.com/josedanielnsilva/flask-ecommerce-api)
 
 ### Calculadora de Surebet
 
